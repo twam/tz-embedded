@@ -1,0 +1,6 @@
+*.o
+zones-db-gen.c
+zoneinfo
+tdata
+example
+libtz.a
